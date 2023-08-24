@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can check the website directly through https://eco-dash-board.netlify.app/.
+
 ## Available Scripts
 
 In the project directory, you can run:
